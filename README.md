@@ -1,6 +1,6 @@
-# EKS Cluster
+# EKS Cluster and RabbitMQ
 
-CloudFormation template and launch script for the EKS cluster.
+CloudFormation template and launch script for the EKS cluster, plus RabbitMQ application running on the cluster.
 
 ## Usage
 
